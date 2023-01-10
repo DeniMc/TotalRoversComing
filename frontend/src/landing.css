@@ -1,0 +1,11 @@
+.container { 
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    background-color: rgb(117, 49, 180);}
+
+    .heroImage {
+        margin-top: 3%;
+        height: 87vh;
+        
+    }
